@@ -1,16 +1,24 @@
-### Hi there 👋
+<!-- Your Name and Profile Picture -->
+# John Doe
+<img align="right" src="profile-picture.jpg" width="200"/>
 
-<!--
-**iamkristen/iamkristen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Bio -->
+👋 Hi there! I'm John, a passionate software developer with a love for open-source projects.
 
-Here are some ideas to get you started:
+<!-- Top Repositories -->
+## Top Projects
+[![Project 1](https://img.shields.io/badge/-Project%201-blue)](link)
+[![Project 2](https://img.shields.io/badge/-Project%202-red)](link)
+[![Project 3](https://img.shields.io/badge/-Project%203-orange)](link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GitHub Stats -->
+## GitHub Stats
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
+
+<!-- Activity Graph -->
+## Activity Graph
+![John's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=johndoe&theme=react-dark)
+
+<!-- Additional Information -->
+## Connect with Me
+[Website](https://www.johndoe.com) | [Twitter](https://twitter.com/johndoe) | [LinkedIn](https://www.linkedin.com/in/johndoe/)
