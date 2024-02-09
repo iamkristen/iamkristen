@@ -12,19 +12,19 @@
 🎉 I also love socializing and making memories with friends, whether it's through casual hangouts, exciting parties, or exploring new experiences together. Life is all about the connections we make and the stories we share, and I'm always up for creating unforgettable moments with those around me.
 
 <!-- Top Repositories -->
-## Top Projects
+## Top Opensource Projects
 [![Saligram](https://img.shields.io/badge/-Project%201-blue)](https://github.com/iamkristen/saaligram)
-[![Project 2](https://img.shields.io/badge/-Project%202-red)](link)
-[![Project 3](https://img.shields.io/badge/-Project%203-orange)](link)
+[![Kurakaani](https://img.shields.io/badge/-Project%202-red)](https://github.com/iamkristen/kurakaani)
+[![E-commerce](https://img.shields.io/badge/-Project%203-orange)](https://github.com/iamkristen/Ecommerce)
 
 <!-- GitHub Stats -->
 ## GitHub Stats
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
+![Ravi GitHub stats](https://github-readme-stats.vercel.app/api?username=iamkristen&show_icons=true&theme=radical)
 
 <!-- Activity Graph -->
 ## Activity Graph
-![John's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=johndoe&theme=react-dark)
+![Ravi GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iamkristen&theme=react-dark)
 
 <!-- Additional Information -->
 ## Connect with Me
-[Website](https://www.johndoe.com) | [Twitter](https://twitter.com/johndoe) | [LinkedIn](https://www.linkedin.com/in/johndoe/)
+[Website](#) | [Facebook](https://facebook.com/your.kristen220) | [LinkedIn](https://www.linkedin.com/in/ravi-kushwaha-78195b23a/)
