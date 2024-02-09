@@ -23,7 +23,7 @@
 
 <!-- Activity Graph -->
 ## Activity Graph
-![Ravi GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iamkristen&theme=react-dark)
+![Ravi GitHub Activity Graph](https://github-readme-streak-stats.herokuapp.com/?user=iamkristen&theme=dark)
 
 <!-- Additional Information -->
 ## Connect with Me
