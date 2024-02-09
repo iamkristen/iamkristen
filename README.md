@@ -13,7 +13,7 @@
 
 <!-- Top Repositories -->
 ## Top Projects
-[![Project 1](https://img.shields.io/badge/-Project%201-blue)]((https://github.com/iamkristen/saaligram))
+[![Saligram](https://img.shields.io/badge/-Project%201-blue)](https://github.com/iamkristen/saaligram)
 [![Project 2](https://img.shields.io/badge/-Project%202-red)](link)
 [![Project 3](https://img.shields.io/badge/-Project%203-orange)](link)
 
