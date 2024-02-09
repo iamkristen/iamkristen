@@ -25,6 +25,10 @@
 ## Activity Graph
 ![Ravi GitHub Activity Graph](https://github-readme-streak-stats.herokuapp.com/?user=iamkristen&theme=dark)
 
+<!-- Most Used Languages -->
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkristen&layout=compact)
+
 <!-- Programming Languages -->
 ## Programming Languages
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
