@@ -1,8 +1,5 @@
 <!-- Your Name and Profile Picture -->
-# Ravi Kushwaha
-<img src="https://avatars.githubusercontent.com/u/70849783?v=4" width="150" height="150" style="border-radius: 50%;" align="right"/>
-
-
+# Ravi Kushwaha | Software Developer
 <!-- Bio -->
 👋 Hey there! I'm Ravi Kushwaha, a computer science student at the University of East London, diving into the captivating world of technology. As a tech enthusiast, I'm always eager to explore new advancements and innovations across various domains.
 
