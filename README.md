@@ -1,6 +1,6 @@
 <!-- Your Name and Profile Picture -->
 # Ravi Kushwaha
-<img align="right" src="https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/411501849_2152364905124517_4416076605848398941_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=v-sUhAPmnakAX--YdW9&_nc_ht=scontent-lhr6-2.xx&oh=00_AfC-AhSHHDZCmDNoC0tiJkeyPyzH6ca68uA6dCuL6qgBEw&oe=65CA93A3" width="200" style="border-radius: 50%; border: 5px solid #fff; box-shadow: 0 0 0 5px #000;"/>
+<img align="right" src="https://avatars.githubusercontent.com/u/70849783?v=4" width="200" style="border-radius: 50%; border: 5px solid #fff; box-shadow: 0 0 0 5px #000;"/>
 
 <!-- Bio -->
 👋 Hey there! I'm Ravi Kushwaha, a computer science student at the University of East London, diving into the captivating world of technology. As a tech enthusiast, I'm always eager to explore new advancements and innovations across various domains.
