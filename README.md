@@ -1,6 +1,6 @@
 <!-- Your Name and Profile Picture -->
 # Ravi Kushwaha
-<img align="right" src="https://avatars.githubusercontent.com/u/70849783?v=4" width="200" style="border-radius: 50%; border: 5px solid #fff; box-shadow: 0 0 0 5px #000;"/>
+<img src="https://avatars.githubusercontent.com/u/70849783?v=4" width="150" height="150" style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);" align="right"/>
 
 <!-- Bio -->
 👋 Hey there! I'm Ravi Kushwaha, a computer science student at the University of East London, diving into the captivating world of technology. As a tech enthusiast, I'm always eager to explore new advancements and innovations across various domains.
